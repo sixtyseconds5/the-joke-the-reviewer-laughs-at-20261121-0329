@@ -1,3 +1,8 @@
+"""All Green - a one-line joke about working beside AI coding agents.
+
+Writes the joke to entry.txt in MAKEFUN_OUTPUT_DIR (default /output).
+"""
+
 import os
 from pathlib import Path
 
